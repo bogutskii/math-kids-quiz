@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/math-kids-quiz/static/css/main.a390407a.chunk.css",
+    "main.js": "/math-kids-quiz/static/js/main.2a59f1fa.chunk.js",
+    "main.js.map": "/math-kids-quiz/static/js/main.2a59f1fa.chunk.js.map",
+    "runtime-main.js": "/math-kids-quiz/static/js/runtime-main.c0b7bc2b.js",
+    "runtime-main.js.map": "/math-kids-quiz/static/js/runtime-main.c0b7bc2b.js.map",
+    "static/js/2.7e2c35b6.chunk.js": "/math-kids-quiz/static/js/2.7e2c35b6.chunk.js",
+    "static/js/2.7e2c35b6.chunk.js.map": "/math-kids-quiz/static/js/2.7e2c35b6.chunk.js.map",
+    "index.html": "/math-kids-quiz/index.html",
+    "static/css/main.a390407a.chunk.css.map": "/math-kids-quiz/static/css/main.a390407a.chunk.css.map",
+    "static/js/2.7e2c35b6.chunk.js.LICENSE.txt": "/math-kids-quiz/static/js/2.7e2c35b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0b7bc2b.js",
+    "static/js/2.7e2c35b6.chunk.js",
+    "static/css/main.a390407a.chunk.css",
+    "static/js/main.2a59f1fa.chunk.js"
+  ]
+}
