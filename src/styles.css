@@ -1,0 +1,76 @@
+.App-light {
+  font-family: sans-serif;
+  text-align: center;
+  background: rgb(183, 206, 149);
+  margin: 20px;
+  padding:10px 10px 20px 10px
+}
+.App-dark {
+  font-family: sans-serif;
+  text-align: center;
+  background: rgb(34, 55, 4);
+  margin: 20px;
+  padding:10px 10px 20px 10px
+}
+body {
+  background: #5e7e5e
+}
+.ol-center { 
+  display: inline-block; 
+  text-align: left; 
+margin: 0;
+
+}
+
+.input-green{
+  background-color : rgb(202, 224, 170);
+}
+.input-green::-webkit-outer-spin-button,
+.input-green::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.input-green[type=number] {
+  -moz-appearance: textfield;
+}
+
+.btn-green{
+background:    #55b14c;
+border-radius: 4px;
+padding:       2px 4px;
+color:         #ffffff;
+display:       inline-block;
+font:          normal bold 14px/1 "Open Sans", sans-serif;
+text-align:    center;
+margin: 5px
+}
+.btn-red{
+background:    #e67672;
+border-radius: 4px;
+padding:       2px 4px;
+color:         #ffffff;
+display:       inline-block;
+font:          normal bold 14px/1 "Open Sans", sans-serif;
+text-align:    center;
+margin: 5px
+}
+.btn-yellow{
+background:    #abc43e;
+border-radius: 4px;
+padding:       2px 4px;
+color:         #ffffff;
+display:       inline-block;
+font:          normal bold 14px/1 "Open Sans", sans-serif;
+text-align:    center;
+margin: 5px
+}
+.btn-blue{
+background:    #5d87d5;
+border-radius: 4px;
+padding:       30px 60px;
+color:         #ffffff;
+display:       inline-block;
+font:          normal bold 28px/1 "Open Sans", sans-serif;
+text-align:    center;
+margin: 5px
+}
